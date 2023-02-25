@@ -2,7 +2,7 @@
 Team Alpha
 
 Members:
-Sparsh Agrawal
-Rushikesh Jadhav
-Vivek Kumar
-Rathod Yashwant
+Sparsh Agrawal,
+Rushikesh Jadhav,
+Vivek Kumar,
+Rathod Yashwant,
